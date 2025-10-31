@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Ziad Safwat Mohamed  
 **Software Engineer | Flutter Developer | Full Stack .NET Trainee @ ITI**
 
-📍 Beni-Suef, Egypt  
-📧 [Ziadsafwataraby@gmail.com](mailto:Ziadsafwataraby@gmail.com)  
-🌐 [Portfolio](https://ziadsafwat.github.io/Ziad-Safwat-Portfolio/)  
+
 ---
 
 ## 🧩 Achievements  
@@ -20,4 +18,7 @@
 - Linux (main OS)  
 - Inkscape & Blender (design tools)  
 
-
+---
+📍 Beni-Suef, Egypt  
+📧 [Ziadsafwataraby@gmail.com](mailto:Ziadsafwataraby@gmail.com)  
+🌐 [Portfolio](https://ziadsafwat.github.io/Ziad-Safwat-Portfolio/)  
