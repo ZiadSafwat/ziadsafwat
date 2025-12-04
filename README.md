@@ -4,9 +4,9 @@
 
 ---
 
-## 🧩 Achievements  
-- 🥈 **2nd Prize** – Science & Industry Innovation Conference (2023)  
+## 🧩 Achievements 
 - 🌍 **Local Winner & Global Nominee** – Nasa Space App Cairo (2025)
+- 🥈 **2nd Prize** – Science & Industry Innovation Conference (2023)  
 ---
 
 ## 🧠 Skills & Technologies   
@@ -19,6 +19,6 @@
 - Inkscape & Blender (design tools)  
 
 ---
-📍 Beni-Suef, Egypt  
+📍 Egypt  
 📧 [Ziadsafwataraby@gmail.com](mailto:Ziadsafwataraby@gmail.com)  
 🌐 [Portfolio](https://ziadsafwat.github.io/Ziad-Safwat-Portfolio/)  
