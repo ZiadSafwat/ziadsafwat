@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ziad Safwat Mohamed  
-**Software Engineer | Flutter Developer | Full Stack .NET Trainee @ ITI**
+**Software Engineer | Flutter Developer | ITI Full Stack .NET Developer**
 
 
 ---
